@@ -1,3 +1,6 @@
 title: Ex Ponto
 description: Politika bez iluzija
 theme: jekyll-theme-minimal
+theme: minima
+plugins:
+  - jekyll-feed
